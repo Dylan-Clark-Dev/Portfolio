@@ -40,12 +40,12 @@ nav a {
 }
 
 nav a:hover {
-  color: #f7dd43;
+  color: #63baab;
   text-decoration: underline;
 }
 
 .sobre {
-  background-color: #f7dd43;
+  background-color: #63baab;
   padding: 3em 0;
   width: 940px;
   height: 400px;
@@ -55,7 +55,7 @@ nav a:hover {
 h1 {
   text-align: right;
   margin-right: 20px;
-  color: #006B5E;
+  color: #2f4858;
 }
 
 p {
