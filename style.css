@@ -1,4 +1,17 @@
-footer {
-  background-color: #000080;
-  color: #fff;
+body {
+  background-color: #121214;
+  background-image: url(./assets/bg.svg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body * {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#app {
+  width: fit-content;
+  margin: auto;
+  padding-top: 52px;
 }
