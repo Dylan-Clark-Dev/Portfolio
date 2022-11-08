@@ -52,10 +52,10 @@ nav a:hover {
   margin: 80px auto;
 }
 
-h1 {
+h1, h2 {
   text-align: right;
   margin-right: 20px;
-  color: #2f4858;
+  color: #00008B;
 }
 
 p {
@@ -72,7 +72,7 @@ p {
 
 .redes-sociais h2 {
   text-align: center;
-  color: #2f4858;
+  color: #00008B;
   text-transform: uppercase;
 }
 
