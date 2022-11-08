@@ -69,3 +69,15 @@ p {
   float: left;
   margin-left: 20px;
 }
+
+.redes-sociais h2 {
+  text-align: center;
+  color: #2f4858;
+  text-transform: uppercase;
+}
+
+.redes-sociais img {
+  width: 5%;
+  margin-left: 60px;
+  padding: 3px;
+}
